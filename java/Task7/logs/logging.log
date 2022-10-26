@@ -1,0 +1,77 @@
+2020-08-12 19:25:53 INFO  Runner:29 - INPUT FIRST VALUE5
+2020-08-12 19:25:54 INFO  Runner:32 - INPUT second VALUE5
+2020-08-12 19:25:55 ERROR Runner:67 - Unknown name of command
+2020-08-12 19:30:29 INFO  Runner:29 - INPUT FIRST VALUE5
+2020-08-12 19:30:30 INFO  Runner:32 - INPUT second VALUE5
+2020-08-12 19:30:36 ERROR Runner:67 - Unknown name of command
+2020-08-12 19:31:07 INFO  Runner:29 - INPUT FIRST VALUE5
+2020-08-12 19:31:09 INFO  Runner:32 - INPUT second VALUE5
+2020-08-12 19:31:10 ERROR Runner:67 - Unknown name of command
+2020-08-12 19:54:42 INFO  Runner:29 - INPUT FIRST VALUE5
+2020-08-12 19:54:43 INFO  Runner:32 - INPUT second VALUE5
+2020-08-13 12:18:08 INFO  Runner:59 - INPUT FIRST VALUE5
+2020-08-13 12:18:09 INFO  Runner:62 - INPUT second VALUE5
+2020-08-13 12:18:20 INFO  Runner:59 - INPUT FIRST VALUE5
+2020-08-13 12:18:21 INFO  Runner:62 - INPUT second VALUE5
+2020-08-13 12:18:23 ERROR Runner:97 - Unknown name of command
+2020-08-13 12:24:40 INFO  Runner:61 - INPUT FIRST VALUE5
+2020-08-13 12:24:41 INFO  Runner:64 - INPUT second VALUE5
+2020-08-13 12:24:43 ERROR Runner:99 - Unknown name of command
+2020-08-13 12:25:01 INFO  Runner:61 - INPUT FIRST VALUE5
+2020-08-13 12:25:02 INFO  Runner:64 - INPUT second VALUE5
+2020-08-13 12:25:04 ERROR Runner:99 - Unknown name of command
+2020-08-13 12:26:28 INFO  Runner:62 - INPUT FIRST VALUE5
+2020-08-13 12:26:29 INFO  Runner:65 - INPUT second VALUE5
+2020-08-13 12:26:30 ERROR Runner:100 - Unknown name of command
+2020-08-13 12:53:20 INFO  Runner:79 - INPUT FIRST VALUE1
+2020-08-13 12:53:20 INFO  Runner:82 - INPUT second VALUE11
+2020-08-13 12:53:22 ERROR Runner:117 - Unknown name of command
+2020-08-13 13:18:54 INFO  Runner:68 - INPUT FIRST VALUE1
+2020-08-13 13:18:54 INFO  Runner:69 - INPUT second VALUE1
+2020-08-13 13:19:52 INFO  Runner:68 - INPUT FIRST VALUE5
+2020-08-13 13:19:52 INFO  Runner:69 - INPUT second VALUE5
+2020-08-14 13:30:54 INFO  Runner:66 - INPUT FIRST VALUE5
+2020-08-14 13:30:54 INFO  Runner:67 - INPUT second VALUE5
+2020-08-14 13:31:00 ERROR Runner:119 - Unknown name of command
+2020-08-14 13:32:04 WARN  Runner:89 - Here can be division by zero!
+2020-08-14 13:33:52 INFO  Runner:66 - INPUT FIRST VALUE5
+2020-08-14 13:33:52 INFO  Runner:67 - INPUT second VALUE10
+2020-08-14 13:33:53 WARN  Runner:89 - Here can be division by zero!
+2020-08-14 13:34:58 WARN  Runner:89 - Here can be division by zero!
+2020-08-14 15:15:12 INFO  Runner:67 - INPUT FIRST VALUE5
+2020-08-14 15:15:12 INFO  Runner:68 - INPUT second VALUE5
+2020-08-14 15:15:20 WARN  Runner:90 - Here can be division by zero!
+2020-08-20 19:53:00 INFO  Runner:23 - Input lvl of log4j
+1.Debug
+2.Info
+3.Warm
+4.Error
+5.All
+0.Exit: 
+2020-08-20 19:53:03 ERROR Runner:54 - Try again!
+2020-08-20 19:53:18 INFO  Runner:23 - Input lvl of log4j
+1.Debug
+2.Info
+3.Warm
+4.Error
+5.All
+0.Exit: 
+2020-08-20 19:53:21 ERROR Runner:54 - Try again!
+2020-08-20 19:53:44 INFO  Runner:23 - Input lvl of log4j
+1.Debug
+2.Info
+3.Warm
+4.Error
+5.All
+0.Exit: 
+2020-08-20 19:53:46 ERROR Runner:54 - Try again!
+2020-08-20 19:53:51 INFO  Runner:23 - Input lvl of log4j
+1.Debug
+2.Info
+3.Warm
+4.Error
+5.All
+0.Exit: 
+2020-08-20 19:53:54 INFO  Runner:60 - Please, input first value : 
+2020-08-20 19:53:56 INFO  Runner:62 - Please, input second value: 
+2020-08-20 19:54:02 DEBUG Runner:98 - Creating new object mult()

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+  <test name="TA_task8">
+    <parameter name="firstValue"  value="30" />
+    <parameter name="secondValue"  value="5" />
+    <parameter name="sum"  value="35" />
+    <parameter name="subtract"  value="25" />
+    <parameter name="multiplication"  value="150" />
+    <parameter name="division"  value="6" />
+    <classes>
+      <class name="com.epam.maksym_yena.test_automation.task8.CalculatorTest"/>
+    </classes>
+  </test> <!-- TA_task8 -->
+</suite> <!-- Default Suite -->
