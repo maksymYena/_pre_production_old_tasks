@@ -1,6 +1,6 @@
 This repository exists for nostalgic purposes. 
 
-These tasks and this code were written during the author's development as a developer / Automator. 
+These tasks and this code were written during the author's development as a developer / automation QA. 
 
 The repository includes java tasks and test automation tasks.
 
